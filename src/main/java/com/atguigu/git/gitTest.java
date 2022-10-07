@@ -8,5 +8,7 @@ public class gitTest {
         System.out.println("git test4444");
 
         System.out.println("hot-fix 修改的");
+
+        System.out.println("hot-fix 合并");
     }
 }
