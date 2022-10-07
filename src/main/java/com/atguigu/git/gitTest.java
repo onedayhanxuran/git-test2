@@ -11,5 +11,7 @@ public class gitTest {
         System.out.println("master 合并2");
 
         System.out.println("hot-fix 合并");
+
+        System.out.println("master 集合");
     }
 }
