@@ -9,5 +9,7 @@ public class gitTest {
 
         System.out.println("hot-fix 修改的");
         System.out.println("master 合并2");
+
+        System.out.println("hot-fix 合并");
     }
 }
